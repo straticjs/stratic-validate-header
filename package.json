@@ -1,6 +1,6 @@
 {
   "name": "stratic-validate-header",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "remark plugin to validate a standard Stratic header",
   "main": "index.js",
   "scripts": {
