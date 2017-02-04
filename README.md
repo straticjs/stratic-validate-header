@@ -1,5 +1,7 @@
 # `stratic-validate-header`
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/straticjs/stratic-validate-header.svg)](https://greenkeeper.io/)
+
 [remark][1] plugin to validate a standard [Stratic][2] header
 
 ## Installation
